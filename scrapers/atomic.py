@@ -35,7 +35,7 @@ def search_card(card_name, quiet=False):
                                 result = f"{card_title}, Set: {card_set}, Grade: {grade}\n"
                             else:
                                 result = f"{card_name}, Grade: {grade}\n"
-                            print(result, end='')
+                            # print(result, end='')
                             output_text += result
 
     else:

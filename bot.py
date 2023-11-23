@@ -96,7 +96,7 @@ async def watchdog(ctx):
 
             if results:
                 response = "\n".join(results)
-                await ctx.send(response)
+                await ctx.send('🚨 I found something you might like Senpai.. are you proud of me? 🚨\n' + response)
 
         except Exception as e:
             print(f"Error: {e}")
