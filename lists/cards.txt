@@ -1,3 +1,4 @@
+--------BLUE---------
 Rhystic Study
 Cyclonic Rift
 Gilded Drake
@@ -7,18 +8,82 @@ Flusterstorm
 Swan Song
 Mana Drain
 Force of Negation
+Consecrated Sphinx
+Transmute Artifact
+Subtlety
+Intuition
+
+--------COLORLESS---------
 Mana Crypt
 The One Ring
 Chrome Mox
 Mana Vault
 Jeweled Lotus
 Mox Opal
-Lions eye diamond
+Lions Eye Diamond
 Lotus Petal
 Sensei's Divining Top
-Mana Vault
 Commander's Plate
 Mox Diamond
+Gemstone Caverns
+Mana Confluence
+Urza's Saga
+Cavern of Souls
+Prismatic Vista
+Nykthos, Shrine to Nyx
+Grim Monolith
+Walking Ballista
+Karn, The Great Creator
+Mox Amber
+Phyrexian Tower
+Ancient Copper Dragon
+Ancient Brass Dragon
+Ulamog, the Infinite Gyre
+Void Winnower
+Mithril Coat
+
+--------BLACK---------
+Demonic Tutor
+Vampiric Tutor
+Opposition Agent
+Reanimate
+Deadly Rollick
+Grim Tutor
+The Meathook Massacre
+Phyrexian Altar
+Agadeem's Awakening
+Dauthi Voidwalker
+Necropotence
+Exquisite Blood
+Ad Nauseam
+Imperial Seal
+
+--------RED---------
+Dockside Extortionist
+Ragavan, Nimble Pilferer
+Jeska's Will
+Wheel of Fortune
+Deflecting Swat
+Fury
+
+--------WHITE---------
+Esper Sentinel
+Enlightened Tutor
+Teferi's Protection
+Land Tax
+Stoneforge Mystic
+Solitude
+Serra Ascendant
+
+--------GREEN---------
+Sylvan Library
+Craterhoof Behemoth
+Worldly Tutor
+Bloom Tender
+Seedborn Muse
+Last March of the Ents
+
+--------LANDS---------
 Underground Sea
 Badlands
 Volcanic Island
@@ -37,7 +102,7 @@ Verdant Catacombs
 Marsh Flats
 Wooded Foothills
 Windswept Heath
-Bloodstained mire
+Bloodstained Mire
 Arid Mesa
 Hallowed Fountain
 Watery Grave
@@ -50,34 +115,6 @@ Breeding Pool
 Steam Vents
 Sacred Foundry
 Ancient Tomb
-Gemstone Caverns
-Mana Confluence
-Urzas saga
-Cavern of Souls
-Prismatic Vista
-Nykthos Shrine to Nyx
-Boseiju who endures
-Otawara Soaring City
-Cabal Coffers
-Demonic Tutor
-Vampiric Tutor
-Opposition Agnet
-Reanimate
-Deadly Rollick
-Grim Tutor
-The Meathook Massacre
-Phyrexian Altar
-Agadeem's Awakening
-Dockside Extortionist
-Ragavan Nimble Pilferer
-Jeska's Will
-Wheel of Fortune
-Deflecting Swat
-Esper Sentinel
-Enlightened Tutor
-Teferi's Protection
-Land Tax
-Stoneforge Mystic
-Sylvan Library
-Craterhoof Behemoth
-Worldly Tutor
+Morphic Pool
+Boseiju, Who Endures
+Otawara, Soaring City
