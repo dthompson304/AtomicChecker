@@ -34,7 +34,7 @@ nest_asyncio.apply()
 
 # Set up Discord intents
 intents = discord.Intents.default()
-intents.messages = True
+intents.message_content = True
 
 #get WD
 current_working_directory = os.getcwd()
@@ -93,7 +93,7 @@ async def check_cards(ctx, *, card_names):
                 await ctx.send("You have a big request daddy, please wait for me patiently xoxo")
             else:
                 await ctx.send("This is a large request, please be patient")
-            file_path = "Atmoic Checker\lists\cards.txt"
+            file_path = "/root/cards/AtomicChecker/lists/cards.txt"
             with open(file_path, 'r') as file:
                 for line in file:
                     card_name = line.strip()
@@ -138,7 +138,7 @@ async def check_cards(ctx, *, card_names):
         else:
             await ctx.send("Search complete thanks for using the bot! ")
 
-bot.run('MTE3NjYxODg1MTk2NjkyMjg2Ng.GFBb7H.z2W63ct5pLJQkDrNh5go6fabF0NvHSG1Evn8z8')
+bot.run('MTA2NTY0NDQxNDU0Mzg3MjA0MA.GLxxF3.YhqAaXxFhLPrLpKU1pdWkfbrbe0Z8AyobPdxU0')
             
     
 
